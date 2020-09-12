@@ -1,6 +1,6 @@
 # FinancialMachinaLearningLab
 
-The following repository looks into the applications of Machine Learning in Finance. The Lab is an iniative of Arthashastra Intelligence(www.aidatabases.in). The Empirical Finance has lately turned into using the tools of Machine Learning. 
+The following repository looks into the applications of Machine Learning in Finance. The Lab is an initiative of Arthashastra Intelligence(www.aidatabases.in). The Empirical Finance has lately turned into using the tools of Machine Learning. 
 
 The following the file structure for all files
 
