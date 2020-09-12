@@ -4,12 +4,10 @@ The following repository looks into the applications of Machine Learning in Fina
 
 The following the file structure for all files
 
-Application[__]
-|- Raw Data
-  |_ application.csv
-|- Ipython Notebookes(Colab or Jupyter)
-  |-application.ipynb
-Read Me.docx
+Application
+* |- Raw Data
+* |- Ipython Notebookes(Colab or Jupyter)
+* Read Me.docx
 
 
 
