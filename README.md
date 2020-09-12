@@ -6,7 +6,7 @@ The following the file structure for all files
 
 Application
 * |- Raw Data
-* |- Ipython Notebookes(Colab or Jupyter)
+* |- Ipython Notebooks(Colab or Jupyter)
 * Read Me.docx
 
 
